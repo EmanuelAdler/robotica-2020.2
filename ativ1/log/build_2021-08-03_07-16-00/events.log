@@ -1,0 +1,63 @@
+[0.000000] (-) TimerEvent: {}
+[0.000000] (controller) JobQueued: {'identifier': 'controller', 'dependencies': OrderedDict()}
+[0.000000] (controller) JobStarted: {'identifier': 'controller'}
+[0.110000] (-) TimerEvent: {}
+[0.219000] (-) TimerEvent: {}
+[0.329000] (-) TimerEvent: {}
+[0.438000] (-) TimerEvent: {}
+[0.547000] (-) TimerEvent: {}
+[0.657000] (-) TimerEvent: {}
+[0.766000] (-) TimerEvent: {}
+[0.875000] (-) TimerEvent: {}
+[0.985000] (-) TimerEvent: {}
+[1.094000] (-) TimerEvent: {}
+[1.204000] (-) TimerEvent: {}
+[1.313000] (-) TimerEvent: {}
+[1.422000] (-) TimerEvent: {}
+[1.532000] (-) TimerEvent: {}
+[1.641000] (-) TimerEvent: {}
+[1.750000] (-) TimerEvent: {}
+[1.860000] (-) TimerEvent: {}
+[1.969000] (-) TimerEvent: {}
+[2.079000] (-) TimerEvent: {}
+[2.188000] (-) TimerEvent: {}
+[2.297000] (-) TimerEvent: {}
+[2.407000] (-) TimerEvent: {}
+[2.516000] (-) TimerEvent: {}
+[2.610000] (controller) Command: {'cmd': ['c:\\opt\\ros\\foxy\\x64\\python.exe', 'setup.py', 'egg_info', '--egg-base', 'E:\\code_projects\\robotica\\ativ1\\build\\controller', 'build', '--build-base', 'E:\\code_projects\\robotica\\ativ1\\build\\controller\\build', 'install', '--prefix', 'E:\\code_projects\\robotica\\ativ1\\install\\controller', '--record', 'E:\\code_projects\\robotica\\ativ1\\build\\controller\\install.log', '--single-version-externally-managed'], 'cwd': 'E:\\code_projects\\robotica\\ativ1\\src\\controller', 'env': {'OneDriveConsumer': 'C:\\Users\\emanu\\OneDrive', 'ProgramFiles(x86)': 'C:\\Program Files (x86)', 'USERNAME': 'emanu', 'CONDA_PROMPT_MODIFIER': '(base)', 'windir': 'C:\\WINDOWS', 'ChocolateyInstall': 'C:\\ProgramData\\chocolatey', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 142 Stepping 10, GenuineIntel', 'CONDA_PREFIX': 'D:\\Documentos\\Anaconda3', 'CARBON_MEM_DISABLE': '1', 'TMP': 'C:\\Users\\emanu\\AppData\\Local\\Temp', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'DriverData': 'C:\\Windows\\System32\\Drivers\\DriverData', 'Path': 'C:\\opt\\ros\\foxy\\x64\\Scripts;C:\\opt\\ros\\foxy\\x64\\bin;D:\\Documentos\\Anaconda3;D:\\Documentos\\Anaconda3\\Library\\mingw-w64\\bin;D:\\Documentos\\Anaconda3\\Library\\usr\\bin;D:\\Documentos\\Anaconda3\\Library\\bin;D:\\Documentos\\Anaconda3\\Scripts;D:\\Documentos\\Anaconda3\\bin;D:\\Documentos\\Anaconda3\\condabin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Renode\\bin;C:\\Python39;D:\\Program Files\\Microsoft MPI\\Bin;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v10.1\\bin;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v10.1\\libnvvp;D:\\Program Files\\Java\\jdk-11.0.8\\bin;C:\\Program Files\\Intel\\iCLS Client;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Windows\\System32\\OpenSSH;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\MATLAB\\R2018b\\runtime\\win64;C:\\Program Files\\MATLAB\\R2018b\\bin;C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2019.3.0;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Users\\emanu\\.geckodriver;C:\\xampp\\php;C:\\composer;D:\\mysql-5.7.27-winx64\\bin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\WINDOWS\\System32\\OpenSSH;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;D:\\Documentos\\apache-maven-3.6.3\\bin;D:\\Gradle\\gradle-6.7\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\emanu\\AppData\\Roaming\\Composer\\vendor\\bin;D:\\Program Files\\nodejs;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files (x86)\\EaseUS\\Todo Backup\\bin;C:\\Program Files\\CMake\\bin;C:\\MinGW\\bin;C:\\Program Files\\Microchip\\xc8\\v2.31\\bin;C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin;D:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\emanu\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\emanu\\AppData\\Roaming\\npm', '_CONDA_EXE': 'D:\\Documentos\\Anaconda3\\Scripts\\conda.exe', 'HOMEPATH': '\\Users\\emanu', 'NVCUDASAMPLES10_1_ROOT': 'C:\\ProgramData\\NVIDIA Corporation\\CUDA Samples\\v10.1', 'WSLENV': 'WT_SESSION::WT_PROFILE_ID', 'CONDA_SHLVL': '1', 'PROCESSOR_REVISION': '8e0a', 'ChocolateyLastPathUpdate': '132585194586827900', 'USERPROFILE': 'C:\\Users\\emanu', 'PKG_CONFIG_PATH': 'C:\\opt\\ros\\foxy\\x64\\lib\\pkgconfig;', 'LOGONSERVER': '\\\\DESKTOP-G3KSBA4', 'TEMP': 'C:\\Users\\emanu\\AppData\\Local\\Temp', 'VCPKG_ROOT': 'E:\\code_projects\\vcpkg', 'AMENT_PREFIX_PATH': 'E:\\code_projects\\robotica\\ativ1\\install\\controller;E:\\code_projects\\robotica\\test\\install\\py_pubsub;C:\\opt\\ros\\foxy\\x64;', 'PUBLIC': 'C:\\Users\\Public', 'CONDA_EXE': 'D:\\Documentos\\Anaconda3\\Scripts\\conda.exe', 'MSMPI_BIN': 'D:\\Program Files\\Microsoft MPI\\Bin\\', 'OneDrive': 'C:\\Users\\emanu\\OneDrive', 'NVCUDASAMPLES_ROOT': 'C:\\ProgramData\\NVIDIA Corporation\\CUDA Samples\\v10.1', 'NVTOOLSEXT_PATH': 'C:\\Program Files\\NVIDIA Corporation\\NvToolsExt\\', 'CommonProgramFiles': 'C:\\Program Files\\Common Files', 'SystemRoot': 'C:\\WINDOWS', 'PROCESSOR_LEVEL': '6', 'ProgramW6432': 'C:\\Program Files', 'ProgramData': 'C:\\ProgramData\nIntelliJ IDEA=C:\\Program Files\\JetBrains\\IntelliJ IDEA 2018.3.5\\bin;', 'COLCON': '1', '_CONDA_ROOT': 'D:\\Documentos\\Anaconda3', 'VCPKG_DEFAULT_TRIPLET': 'x64-windows', 'COLCON_CURRENT_PREFIX': 'E:\\code_projects\\robotica\\ativ1\\install', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'CommonProgramW6432': 'C:\\Program Files\\Common Files', 'ROS_LOCALHOST_ONLY': '0', 'ROS_DISTRO': 'foxy', 'CONDA_PYTHON_EXE': 'D:\\Documentos\\Anaconda3\\python.exe', 'VS140COMNTOOLS': 'C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\Common7\\Tools\\', 'WT_PROFILE_ID': '{61c54bbd-c2c6-5271-96e7-009a87ff44bf}', 'ROS_PYTHON_VERSION': '3', 'CMAKE_PREFIX_PATH': 'C:\\opt\\ros\\foxy\\x64;', 'CUDA_PATH': 'C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v10.1', 'CommonProgramFiles(x86)': 'C:\\Program Files (x86)\\Common Files', 'HOMEDRIVE': 'C:', 'CONDA_DEFAULT_ENV': 'base', 'PYTHONPATH': 'E:\\code_projects\\robotica\\ativ1\\install\\controller\\Lib\\site-packages;E:\\code_projects\\robotica\\ativ1\\install\\controller\\Lib\\site-packages;E:\\code_projects\\robotica\\test\\install\\py_pubsub\\Lib\\site-packages;C:\\opt\\ros\\foxy\\x64\\Lib\\site-packages;', 'KINECTSDK10_DIR': 'C:\\Program Files\\Microsoft SDKs\\Kinect\\v1.8\\', 'SystemDrive': 'C:', 'NUMBER_OF_PROCESSORS': '8', 'OS': 'Windows_NT', 'NODE_PATH': 'D:\\Program Files\\nodejs\\node_modules', 'ProgramFiles': 'C:\\Program Files', 'ComSpec': 'C:\\WINDOWS\\system32\\cmd.exe', 'CUDA_PATH_V10_1': 'C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v10.1', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL', 'ROS_VERSION': '2', 'JAVA_HOME': 'D:\\Program Files\\Java\\jdk-11.0.8', 'PSModulePath': 'C:\\Users\\emanu\\OneDrive\\Documentos\\WindowsPowerShell\\Modules;C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'KINECTSDK20_DIR': 'C:\\Program Files\\Microsoft SDKs\\Kinect\\v2.0_1409\\', 'APPDATA': 'C:\\Users\\emanu\\AppData\\Roaming', 'USERDOMAIN': 'DESKTOP-G3KSBA4', 'COMPUTERNAME': 'DESKTOP-G3KSBA4', 'LOCALAPPDATA': 'C:\\Users\\emanu\\AppData\\Local', 'WT_SESSION': '7262baaf-32cc-4801-9209-212e24e9695c', 'USERDOMAIN_ROAMINGPROFILE': 'DESKTOP-G3KSBA4', 'VBOX_MSI_INSTALL_PATH': 'D:\\Program Files\\Oracle\\VirtualBox\\', 'JD2_HOME': 'D:\\Program Files\\JDownloader'}, 'shell': False}
+[2.641000] (-) TimerEvent: {}
+[2.750000] (-) TimerEvent: {}
+[2.860000] (-) TimerEvent: {}
+[2.969000] (-) TimerEvent: {}
+[3.079000] (-) TimerEvent: {}
+[3.188000] (controller) StdoutLine: {'line': b'running egg_info\r\n'}
+[3.188000] (-) TimerEvent: {}
+[3.188000] (controller) StdoutLine: {'line': b'writing E:\\code_projects\\robotica\\ativ1\\build\\controller\\controller.egg-info\\PKG-INFO\r\n'}
+[3.188000] (controller) StdoutLine: {'line': b'writing dependency_links to E:\\code_projects\\robotica\\ativ1\\build\\controller\\controller.egg-info\\dependency_links.txt\r\n'}
+[3.188000] (controller) StdoutLine: {'line': b'writing entry points to E:\\code_projects\\robotica\\ativ1\\build\\controller\\controller.egg-info\\entry_points.txt\r\n'}
+[3.188000] (controller) StdoutLine: {'line': b'writing requirements to E:\\code_projects\\robotica\\ativ1\\build\\controller\\controller.egg-info\\requires.txt\r\n'}
+[3.188000] (controller) StdoutLine: {'line': b'writing top-level names to E:\\code_projects\\robotica\\ativ1\\build\\controller\\controller.egg-info\\top_level.txt\r\n'}
+[3.204000] (controller) StdoutLine: {'line': b"reading manifest file 'E:\\code_projects\\robotica\\ativ1\\build\\controller\\controller.egg-info\\SOURCES.txt'\r\n"}
+[3.219000] (controller) StdoutLine: {'line': b"writing manifest file 'E:\\code_projects\\robotica\\ativ1\\build\\controller\\controller.egg-info\\SOURCES.txt'\r\n"}
+[3.219000] (controller) StdoutLine: {'line': b'running build\r\n'}
+[3.219000] (controller) StdoutLine: {'line': b'running build_py\r\n'}
+[3.219000] (controller) StdoutLine: {'line': b'copying controller\\subscriber_pose.py -> E:\\code_projects\\robotica\\ativ1\\build\\controller\\build\\lib\\controller\r\n'}
+[3.219000] (controller) StdoutLine: {'line': b'running install\r\n'}
+[3.219000] (controller) StdoutLine: {'line': b'running install_lib\r\n'}
+[3.219000] (controller) StdoutLine: {'line': b'copying E:\\code_projects\\robotica\\ativ1\\build\\controller\\build\\lib\\controller\\subscriber_pose.py -> E:\\code_projects\\robotica\\ativ1\\install\\controller\\Lib\\site-packages\\controller\r\n'}
+[3.219000] (controller) StdoutLine: {'line': b"writing byte-compilation script 'C:\\Users\\emanu\\AppData\\Local\\Temp\\tmp9vn7gc6k.py'\r\n"}
+[3.219000] (controller) StdoutLine: {'line': b'c:\\opt\\ros\\foxy\\x64\\python.exe C:\\Users\\emanu\\AppData\\Local\\Temp\\tmp9vn7gc6k.py\r\n'}
+[3.313000] (-) TimerEvent: {}
+[3.313000] (controller) StdoutLine: {'line': b'removing C:\\Users\\emanu\\AppData\\Local\\Temp\\tmp9vn7gc6k.py\r\n'}
+[3.313000] (controller) StdoutLine: {'line': b'running install_data\r\n'}
+[3.313000] (controller) StdoutLine: {'line': b'running install_egg_info\r\n'}
+[3.313000] (controller) StdoutLine: {'line': b"removing 'E:\\code_projects\\robotica\\ativ1\\install\\controller\\Lib\\site-packages\\controller-0.0.0-py3.8.egg-info' (and everything under it)\r\n"}
+[3.313000] (controller) StdoutLine: {'line': b'Copying E:\\code_projects\\robotica\\ativ1\\build\\controller\\controller.egg-info to E:\\code_projects\\robotica\\ativ1\\install\\controller\\Lib\\site-packages\\controller-0.0.0-py3.8.egg-info\r\n'}
+[3.329000] (controller) StdoutLine: {'line': b'running install_scripts\r\n'}
+[3.360000] (controller) StdoutLine: {'line': b'Installing listener-script.py script to E:\\code_projects\\robotica\\ativ1\\install\\controller\\lib\\controller\r\n'}
+[3.360000] (controller) StdoutLine: {'line': b'Installing listener.exe script to E:\\code_projects\\robotica\\ativ1\\install\\controller\\lib\\controller\r\n'}
+[3.360000] (controller) StdoutLine: {'line': b"writing list of installed files to 'E:\\code_projects\\robotica\\ativ1\\build\\controller\\install.log'\r\n"}
+[3.375000] (controller) CommandEnded: {'returncode': 0}
+[3.422000] (controller) JobEnded: {'identifier': 'controller', 'rc': 0}
+[3.422000] (-) TimerEvent: {}
+[3.422000] (-) EventReactorShutdown: {}

@@ -1,0 +1,29 @@
+[2.672s] Invoking command in 'E:\code_projects\robotica\ativ1\src\controller': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=E:\code_projects\robotica\ativ1\install\controller\Lib\site-packages;%PYTHONPATH% ProgramData=%ProgramData%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.5\bin; c:\opt\ros\foxy\x64\python.exe setup.py egg_info --egg-base E:\code_projects\robotica\ativ1\build\controller build --build-base E:\code_projects\robotica\ativ1\build\controller\build install --prefix E:\code_projects\robotica\ativ1\install\controller --record E:\code_projects\robotica\ativ1\build\controller\install.log --single-version-externally-managed
+[3.266s] running egg_info
+[3.266s] writing E:\code_projects\robotica\ativ1\build\controller\controller.egg-info\PKG-INFO
+[3.282s] writing dependency_links to E:\code_projects\robotica\ativ1\build\controller\controller.egg-info\dependency_links.txt
+[3.282s] writing entry points to E:\code_projects\robotica\ativ1\build\controller\controller.egg-info\entry_points.txt
+[3.282s] writing requirements to E:\code_projects\robotica\ativ1\build\controller\controller.egg-info\requires.txt
+[3.282s] writing top-level names to E:\code_projects\robotica\ativ1\build\controller\controller.egg-info\top_level.txt
+[3.297s] reading manifest file 'E:\code_projects\robotica\ativ1\build\controller\controller.egg-info\SOURCES.txt'
+[3.297s] writing manifest file 'E:\code_projects\robotica\ativ1\build\controller\controller.egg-info\SOURCES.txt'
+[3.313s] running build
+[3.313s] running build_py
+[3.313s] copying controller\subscriber_pose.py -> E:\code_projects\robotica\ativ1\build\controller\build\lib\controller
+[3.313s] running install
+[3.313s] running install_lib
+[3.313s] copying E:\code_projects\robotica\ativ1\build\controller\build\lib\controller\subscriber_pose.py -> E:\code_projects\robotica\ativ1\install\controller\Lib\site-packages\controller
+[3.313s] writing byte-compilation script 'C:\Users\emanu\AppData\Local\Temp\tmpzzujss0w.py'
+[3.313s] c:\opt\ros\foxy\x64\python.exe C:\Users\emanu\AppData\Local\Temp\tmpzzujss0w.py
+[3.407s] removing C:\Users\emanu\AppData\Local\Temp\tmpzzujss0w.py
+[3.407s] running install_data
+[3.407s] running install_egg_info
+[3.422s] removing 'E:\code_projects\robotica\ativ1\install\controller\Lib\site-packages\controller-0.0.0-py3.8.egg-info' (and everything under it)
+[3.422s] Copying E:\code_projects\robotica\ativ1\build\controller\controller.egg-info to E:\code_projects\robotica\ativ1\install\controller\Lib\site-packages\controller-0.0.0-py3.8.egg-info
+[3.422s] running install_scripts
+[3.453s] Installing listener-script.py script to E:\code_projects\robotica\ativ1\install\controller\lib\controller
+[3.453s] Installing listener.exe script to E:\code_projects\robotica\ativ1\install\controller\lib\controller
+[3.453s] writing list of installed files to 'E:\code_projects\robotica\ativ1\build\controller\install.log'
+[3.485s] Invoked command in 'E:\code_projects\robotica\ativ1\src\controller' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=E:\code_projects\robotica\ativ1\install\controller\Lib\site-packages;%PYTHONPATH% ProgramData=%ProgramData%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.5\bin; c:\opt\ros\foxy\x64\python.exe setup.py egg_info --egg-base E:\code_projects\robotica\ativ1\build\controller build --build-base E:\code_projects\robotica\ativ1\build\controller\build install --prefix E:\code_projects\robotica\ativ1\install\controller --record E:\code_projects\robotica\ativ1\build\controller\install.log --single-version-externally-managed
